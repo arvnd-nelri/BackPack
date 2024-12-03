@@ -13,7 +13,7 @@ BackPack is a project designed to help users efficiently organize and manage the
   - Health  
   - Beach Supplies  
 
-  The app also provides default tasks for each category, which can be deleted or customized as needed.  
+  The app provides default tasks for each category, which can be deleted or customized as needed. Additionally, you can add your own tasks to any category.  
 
 - **Reminders**:  
   Set reminders to stay on top of important tasks.  
